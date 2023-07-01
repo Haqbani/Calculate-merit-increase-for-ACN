@@ -1,0 +1,51 @@
+empl_no,name,job_title,grade,perf_rating,stores_or_head_office,annual_basic_salary
+1046,margaret lawrence,cleaner,a,2,stores,21120
+1029,thomas gamble,messenger,a,3,head_office,24780
+1041,tanya boyes,office assistant,bl,3,head_office,27830
+3012,sean comely,receiving manager,bl,3,stores,41940
+3016,michael gouws,receiving manager,bl,5,stores,32170
+1026,yvonne petersen,receptionist,bl,3,head_office,34380
+1030,renaldo sarubdeo,admin clerk,bl,3,head_office,34790
+3010,susan gouws,butchery supervisor,bu,3,stores,39370
+1036,allie abrahams,cashier,bu,2,stores,31200
+3020,cindy letswalo,senior receiving mgr,bu,4,stores,50120
+3002,deon van tonder,senior receiving mgr,bu,3,stores,47170
+1033,estie ramsaroop,hr assistant,bu,3,head_office,37700
+3026,melanie malherbe,butchery supervisor,bu,3,stores,46600
+1024,leona goldstein,accts receivable clerk,bu,3,head_office,43600
+1048,miriam moynihan,buying clerk,bu,3,head_office,42640
+1039,katrina adams,secretary,bu,3,head_office,38000
+3005,jenny willows,manager-perishables,cl,0,stores,41060
+3003,hettie victor,manager-perishables,cl,0,stores,41620
+3014,louis gerber,manager-fruit&veg,cl,3,stores,42460
+3006,andre seeber,manager-fruit&veg,cl,1,stores,46550
+3001,mary tembisa,manager bakery,cl,3,stores,47390
+3009,don mckew,manager-bakery,cl,3,stores,48520
+3021,matthew davids,manager frontline,cl,3,stores,49150
+3022,shireen ajouhaar,floor manager,cl,3,stores,50540
+3023,eric elizah,floor manager,cl,4,stores,51100
+3024,sandy erasmus,manager frontline,cl,2,stores,51100
+3025,thomas edson,cash office supervisor,cl,4,stores,51760
+3019,tessa anderson,cash office supervisor,cl,3,stores,52020
+3011,xolile mtwazi,co-ordinator-deli,cl,3,stores,52570
+1032,abdurahman khan,senior accts payable clerk,cl,3,head_office,55970
+1038,denise anders,hr specialist,cl,0,head_office,58880
+1037,robert arendse,eb administrator,cl,1,head_office,60310
+1027,chris tavener,department head,cl,3,head_office,57940
+1023,nanette baker,supervisor,cl,4,head_office,68270
+1035,arishna govender,executive personal assistant,cl,5,head_office,60910
+1044,suraya ramagee,buyer,cl,3,head_office,74480
+3004,dave wilke,co-ordinator-deli,cu,3,stores,54200
+3013,deborah january,assistant store manager,cu,2,stores,55600
+3007,piet wienand,assistant store manager,cu,5,stores,57910
+1031,catherine marz,operations manager,cu,4,head_office,76480
+1043,peter mboyo,snr food technologist,cu,3,head_office,76780
+1045,jane brown,admin manager,cu,4,head_office,77340
+3018,rory rautenbach,store manager,dl,3,stores,77160
+3015,john luthuli,store manager,dl,3,stores,86640
+1028,fiona grossmann,financial accountant,dl,4,head_office,87360
+1034,anwar visvanathan,senior buyer,dl,3,head_office,90240
+1025,andrew laithwaite,marketing manager,dl,4,head_office,93120
+1040,charles abrahams,hr manager,dl,4,head_office,88440
+1042,linda boyce,regional manager,du,3,head_office,119700
+1047,stephen matfield,general manager,el,4,head_office,162000
