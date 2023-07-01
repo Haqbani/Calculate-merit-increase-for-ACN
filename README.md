@@ -1,2 +1,5 @@
-# Calculate-merit-increase-for-ACN
-Calculate merit increase for ACN
+Analysis of employee compensation, focusing on merit increases. Our primary data includes employee information, including their grade, performance rating, and annual basic salary. One of the critical factors we investigate is the impact of an employee's grade and performance on their merit increase rate. We understand the organization's compensation strategy by analyzing the spread of basic annual salaries across different grades, calculating the compa-ratios, and determining the merit increase rate.
+
+We also explore the overall distribution of merit increases, focusing on their normality and the correlation between the numeric grade and payout. Our analysis culminates in a detailed representation of payouts across all grades, thus providing valuable insights into the efficiency and effectiveness of the organization's pay structure.
+
+The knowledge from this analysis is critical in ensuring a fair and motivating compensation strategy, thereby contributing to employee satisfaction and organizational success.
