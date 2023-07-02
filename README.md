@@ -1,25 +1,19 @@
-1.	Importing necessary libraries such as pandas, numpy, plotly, seaborn and matplotlib.
-2.	Reading a csv file into a pandas DataFrame.
-3.	Provide an overview of the data using .head() and .describe().
-4.	Finding unique job titles.
-5.	Calculating the average annual basic salary for each job title.
-6.	Visualizing performance rating and annual basic salary distribution across different grades using boxplots.
-7.	Mapping grades to numerical values for easier data manipulation.
-8.	Mapping numerical grades to pay range midpoints.
-9.	Calculating and adding a new column for Compa-Ratio (a measure of the comparison between an employee's salary and the midpoint of the salary range for their grade).
-10.	Calculating and printing the median Compa-Ratio for each grade and each performance rating.
-11.	Defining a function, calculate_bonus, that calculates the bonus rate based on performance rating and compo ratio.
-12.	Creating a new column, merit_inc_rate, in the dataframe that applies the calculate_bonus function to every row.
-13.	Converting the merit_inc_rate column to percentage.
-14.	Creating a new column, pay_out, which calculates the bonus payout for each individual based on their merit_inc_rate and annual_basic_salary.
-15.	Print the average payout for each numeric grade.
-16.	Creating a boxplot to visualize the distribution of bonus payouts across grades.
-17.	Calculating and printing the total sum of payouts.
-18.	Calculate each grade's total payout and visualize it using a bar plot.
-19.	Creating a histogram to visualize the distribution of payouts.
-20.	Creating a QQ plot to check if the payout data is normally distributed.
-21.	Creating a scatter plot to visualize the relationship between 'numeric_grade' and 'pay_out'.
-22.	Calculating a scaling factor based on a target total payout of 50,000. This scaling factor is used to adjust the individual payouts such that the total payout is 50,000.
-23.	Creating a grouped bar chart to compare the original payouts with the adjusted payouts for each grade.
-24.	Calculating the difference between the original and adjusted payouts.
-25.	Calculate the average difference for each grade.
+<h1 align="center">Hi 👋, I'm Mohammed al haqbani</h1>
+<h3 align="center">A passionate analyst in the field of human recourses specially on compensation and benifits</h3>
+
+- 🌱 I’m currently learning **Python and machine learning**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Haqbani?tab=projects](https://github.com/Haqbani?tab=projects)
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/alhagbani/](https://www.linkedin.com/in/alhagbani/)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/alhagbani/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alhagbani/" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohammadhaqbani" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohammadhaqbani" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haqbani&show_icons=true&locale=en&layout=compact" alt="haqbani" /></p>
