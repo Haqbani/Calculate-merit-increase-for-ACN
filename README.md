@@ -23,4 +23,3 @@
 23.	Creating a grouped bar chart to compare the original payouts with the adjusted payouts for each grade.
 24.	Calculating the difference between the original and adjusted payouts.
 25.	Calculate the average difference for each grade.
-
